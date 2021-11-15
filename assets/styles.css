@@ -1,5 +1,6 @@
 body {
     font-family: Arial;
+    cursor: pointer;
 }
 
 .palette {
@@ -38,4 +39,10 @@ body {
 }
 #green {
     color: green;
+}
+#white {
+    color: white;
+}
+#purple {
+    color: purple;
 }
